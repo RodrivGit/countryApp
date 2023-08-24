@@ -1,8 +1,8 @@
 .spinner-container{
     position: fixed;
-    bottom: 15px;
-    right: 15px;
-    background-color: bkack;
+    bottom: 5px;
+    right: 5px;
+    background-color: black;
     color: white;
     padding: 5px 10px;
     border-radius: 20px;
